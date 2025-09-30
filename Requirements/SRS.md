@@ -89,24 +89,31 @@
 ## 2.2 Интерфейс пользователя
 Взаимодействие с пользователем осуществляется через графический веб-интерфейс. Ниже представлены мокапы ключевых экранов.
 
-**Главный экран со списком книг.**  
 ![Главный экран](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Main_screen.png?raw=true)  
 
-**Главный экран в пустом состоянии (при первом запуске).**  
-![Главный экран в пустом состоянии](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Empty_state.png?raw=true) 
+Главный экран со списком книг в коллекции.
 
-**Окно добавления новой книги.** 
-![Окно добавления новой книги](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Adding_a_new_book.png?raw=true)  
+![Главный экран со списком книг в коллекции](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Main_screen.png?raw=true)
 
-**Окно редактирования существующей книги.**
-![Окно редактирования существующей книги](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Editing_a_book.png?raw=true)
+Главный экран при первом запуске (коллекция пуста).
 
-**Окно подтверждения удаления.** 
-![Окно подтверждения удаления](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Confirm_deletion.png?raw=true)  
+![Главный экран при первом запуске](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Empty_state.png?raw=true)
 
-**Экран при отсутствии результатов поиска.** 
-![Экран при отсутствии результатов поиска](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Search_not_found.png?raw=true) 
+Окно добавления новой книги.
 
+![Окно добавления новой книги](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Adding_a_new_book.png?raw=true)
+
+Окно редактирования информации о книге.
+
+![Окно редактирования информации о книге](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Editing_a_book.png?raw=true)
+
+Окно подтверждения удаления книги.
+
+![Окно подтверждения удаления книги](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Confirm_deletion.png?raw=true)
+
+Экран при отсутствии результатов поиска.
+
+![Экран при отсутствии результатов поиска](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Search_not_found.png?raw=true)
 <a name="user_specifications"/>
 
 ## 2.3 Характеристики пользователей
@@ -217,5 +224,6 @@
 1.  Приложение реализовано как веб-страница (HTML, CSS, JavaScript).
 
 2.  Приложение рассчитано на работу на настольных компьютерах и ноутбуках. Корректное отображение на мобильных устройствах не гарантируется.
+
 
 
