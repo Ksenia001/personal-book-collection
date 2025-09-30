@@ -89,32 +89,23 @@
 ## 2.2 Интерфейс пользователя
 Взаимодействие с пользователем осуществляется через графический веб-интерфейс. Ниже представлены мокапы ключевых экранов.
 
-![Главный экран](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Main_screen.png?raw=true)  
+**Главный экран со списком книг.**  
+![Главный экран](../Mockups/Main_page.png)  
 
-Главный экран со списком книг в коллекции.
+**Главный экран в пустом состоянии (при первом запуске).**  
+![Главный экран в пустом состоянии](../Mockups/Empty_interface.png) 
 
-![Главный экран со списком книг в коллекции](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Main_screen.png?raw=true)
+**Окно добавления новой книги.** 
+![Окно добавления новой книги](../Mockups/Add_book.png)  
 
-Главный экран при первом запуске (коллекция пуста).
+**Окно редактирования существующей книги.**
+![Окно редактирования существующей книги](../Mockups/Edit_book.png)
 
-![Главный экран при первом запуске](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Empty_state.png?raw=true)
+**Окно подтверждения удаления.** 
+![Окно подтверждения удаления](../Mockups/Delete.png)  
 
-Окно добавления новой книги.
-
-![Окно добавления новой книги](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Adding_a_new_book.png?raw=true)
-
-Окно редактирования информации о книге.
-
-![Окно редактирования информации о книге](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Editing_a_book.png?raw=true)
-
-Окно подтверждения удаления книги.
-
-![Окно подтверждения удаления книги](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Confirm_deletion.png?raw=true)
-
-Экран при отсутствии результатов поиска.
-
-![Экран при отсутствии результатов поиска](https://github.com/Ksenia001/personal-book-collection/blob/main/mockups/Search_not_found.png?raw=true)
-<a name="user_specifications"/>
+**Экран при отсутствии результатов поиска.** 
+![Экран при отсутствии результатов поиска](../Mockups/Error_not_found.png) 
 
 ## 2.3 Характеристики пользователей
 
@@ -224,6 +215,7 @@
 1.  Приложение реализовано как веб-страница (HTML, CSS, JavaScript).
 
 2.  Приложение рассчитано на работу на настольных компьютерах и ноутбуках. Корректное отображение на мобильных устройствах не гарантируется.
+
 
 
 
